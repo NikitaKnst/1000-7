@@ -23,6 +23,9 @@ public class Main {
             System.out.println(i+"-7"+"="+i);
             if(i<0){
                 System.out.println("You are dead!");
+                System.out.println("You are ALJAGJASJGHAKMGAGHKFSDG!");
+                                System.out.println("You are ALJAGJASJGHAKMGAGHKFSDG!");
+
             }
         }
     }
